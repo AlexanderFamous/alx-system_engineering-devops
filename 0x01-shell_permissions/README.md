@@ -13,3 +13,4 @@ The 11-directories_permissions script execute permission to all subdirectories o
 The 12-directory_permissions creates a directory called my_dir with permissions 751 in the working directory.
 The change group is a script to change group owner of a file to another 
 A script to change user and group for all files in a directory
+This cript changes the group owner of a symbolic link
