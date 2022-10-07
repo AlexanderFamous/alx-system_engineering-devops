@@ -6,4 +6,5 @@ The 4-empty writes ascript that creates an empty file.
 The 5-execute writes a script that adds execute permission to the owner of the file
 The 6-multiple permissions is a script that changes multiple permission in a file
 The 7-everybody is a script that gives all users execution permission
-The 8-James_Bond script set no permission to owner, group but other users
+The 8-James_Bond script set no permission to owner, group but other users.
+The 9-John_Doe script sets the user permission to read,write,execute and the group tp read,execute and the other to write,execute
