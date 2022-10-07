@@ -10,4 +10,5 @@ The 8-James_Bond script set no permission to owner, group but other users.
 The 9-John_Doe script sets the user permission to read,write,execute and the group tp read,execute and the other to write,execute
 The 10-mirror_permissions copies the file permission of one file to another.
 The 11-directories_permissions script execute permission to all subdirectories of the current directory.
-The 12-directory_permissions creates a directory called my_dir with permissions 751 in the working directory. 
+The 12-directory_permissions creates a directory called my_dir with permissions 751 in the working directory.
+The change group is a script to change group owner of a file to another 
