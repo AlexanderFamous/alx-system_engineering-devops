@@ -8,3 +8,4 @@ The 6-multiple permissions is a script that changes multiple permission in a fil
 The 7-everybody is a script that gives all users execution permission
 The 8-James_Bond script set no permission to owner, group but other users.
 The 9-John_Doe script sets the user permission to read,write,execute and the group tp read,execute and the other to write,execute
+The 10-mirror_permissions copies the file permission of one file to another
